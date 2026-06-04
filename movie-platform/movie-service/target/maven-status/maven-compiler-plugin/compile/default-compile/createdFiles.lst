@@ -1,0 +1,7 @@
+com\gustavo\movieplatform\dto\CreateMovieRequest.class
+com\gustavo\movieplatform\controller\MovieController.class
+com\gustavo\movieplatform\model\Movie.class
+com\gustavo\movieplatform\MovieServiceApplication.class
+com\gustavo\movieplatform\service\MovieService.class
+com\gustavo\movieplatform\exception\GlobalExceptionHandler.class
+com\gustavo\movieplatform\exception\MovieNotFoundException.class
